@@ -1,0 +1,45 @@
+/* .cartDivision{
+    margin-right: 10px;
+    margin-left: 20px;
+    
+    
+    
+    
+}
+.scroll
+{
+    overflow: scroll;
+} */
+/* 
+.cartDivision{
+    margin-right: 10px;
+    margin-left: 20px;
+}
+
+.scroll{
+    overflow: scroll; */
+/* } */
+.cartDivision{
+    margin-right: 10px;
+    margin-left: 20px;
+}
+
+.scroll{
+    overflow: scroll;
+    width: 450px;
+}
+
+.bg-new
+{
+    background-color: #9affe3;
+border: 1px solid #8ca4ff;
+border-radius: 20px;
+padding: 3px;
+margin-bottom: 10px;
+}
+
+.f-right
+{
+    float: right;
+}
+
